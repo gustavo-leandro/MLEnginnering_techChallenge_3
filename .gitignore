@@ -1,0 +1,27 @@
+# Ambiente virtual
+fiap/
+venv/
+env/
+.venv/
+
+# Dados (arquivos grandes)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+*.swp
