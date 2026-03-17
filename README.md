@@ -25,12 +25,12 @@ Análise exploratória completa do dataset de voos domésticos dos EUA em 2015, 
 3. Estatísticas descritivas
 4. Análise e tratamento de valores ausentes
 5. Distribuição de atrasos
-6. Atrasos por companhia aérea
-7. Padrões temporais (mês e dia da semana)
-8. Causas dos atrasos
-9. Análise de cancelamentos
-10. Aeroportos mais movimentados e com maiores atrasos
-11. Distância × Atraso
+6. Atrasos por companhia aérea (chegada, partida e % de voos atrasados)
+7. Padrões temporais — % de atrasos e volume por mês, dia da semana e heatmap mês × dia
+8. Causas dos atrasos — visão geral e participação por mês
+9. Análise de cancelamentos — taxa por mês, dia da semana e motivos por mês
+10. Aeroportos — volume, maiores atrasos, maiores cancelamentos e causas por aeroporto
+11. Distância × Atraso — atraso médio e recuperação de atraso por faixa de distância
 12. Correlação entre variáveis numéricas
 13. Resumo dos principais insights
 
